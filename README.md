@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ron Itzhak
-- 👀 I’m interested in Develop and learn new technologies
+- 👀 I’m interested in software development and learning new interesting technologies
 - 🌱 I’m currently learning Computer Science At Afeka College in Tel Aviv
 - 💞️ I’m looking to collaborate on Open Source interesting projects 
 - 📫 Ronitz9@gmail.com
