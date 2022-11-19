@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ron Itzhak
+- 👋 Hi, I’m Ron Itzhak A Software developer
 - 👀 I’m interested in software development and learning new interesting technologies
-- 🌱 I’m currently learning Computer Science At Afeka College in Tel Aviv(Last semester)
+- 🌱 I’m graduated S.b.c in Computer Science At Afeka College
 - 💞️ I’m looking to collaborate on Open Source interesting projects 
 - 📫 Ronitz9@gmail.com
 
